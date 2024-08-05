@@ -6,7 +6,6 @@ Welcome to the landing page project!
 
 This project is a simple and responsive landing page created using HTML, CSS, and JavaScript. It is designed to be visually appealing and user-friendly, providing a great user experience.
 
-![Landing Page Screenshot](path/to/screenshot.png)
 
 ## Features
 
