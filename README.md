@@ -1,6 +1,6 @@
 # Landing Page
 
-Welcome to the landing page project!
+Welcome to my landing page project!
 
 ## Overview
 
